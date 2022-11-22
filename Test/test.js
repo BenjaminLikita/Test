@@ -11,10 +11,10 @@ buttonEl.addEventListener("click", function(){
         inputEl.value = ""
     }
 })
-function myFunction() {
-    let x = document.createElement("button");
-    let t = document.createTextNode("X");
-    x.appendChild(t);
-    document.body.appendChild(x);
-  }
+// function myFunction() {
+//     let x = document.createElement("button");
+//     let t = document.createTextNode("X");
+//     x.appendChild(t);
+//     document.body.appendChild(x);
+//   }
 
